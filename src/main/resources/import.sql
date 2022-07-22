@@ -1,0 +1,3 @@
+insert into usuarios(usuario,password,rol) values ('briggitte','$2a$13$6VQeiQuSHQ6XDx4pIsHM6eYIta0W5XMGz6bhmfu05az68praHM1eS','ROLE_USER')
+insert into usuarios(usuario,password,rol) values ('cliente','$2a$13$6VQeiQuSHQ6XDx4pIsHM6eYIta0W5XMGz6bhmfu05az68praHM1eS','ROLE_USER')
+insert into usuarios(usuario,password,rol) values ('hospital','$2a$13$6VQeiQuSHQ6XDx4pIsHM6eYIta0W5XMGz6bhmfu05az68praHM1eS','ROLE_USER')
